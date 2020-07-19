@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("202007hotfix");
+        System.out.println("202007hotfix0");
+        System.out.println("202007hotfix==1");
     }
 }
